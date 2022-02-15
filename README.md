@@ -10,5 +10,6 @@
 
 
 #22.02.14
+- 14502.연구소 Solved (https://www.acmicpc.net/problem/14502
 - 22945. 팀빌딩 Solved (https://www.acmicpc.net/problem/22945)
 - 1253. 좋다 Solved (https://www.acmicpc.net/problem/22945)
