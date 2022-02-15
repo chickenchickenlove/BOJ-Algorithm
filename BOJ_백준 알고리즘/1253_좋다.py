@@ -1,31 +1,33 @@
 import sys
 
-# 정렬, 두포인터.
-
 n = int(sys.stdin.readline().rstrip())
-my_list = list(map(int, sys.stdin.readline().split()))
-my_list = sorted(my_list)
+m = list(map(int, sys.stdin.readline().split()))
 
-answer = 0
-last = 0
-for now_idx in range(len(my_list)):
-    l = 0
-    r = len(my_list) - 1
+
+def two_pointer(l, r, m, idx):
+    global ans
     while l < r:
-        if my_list[l] + my_list[r] == my_list[now_idx]:
-            if now_idx not in [l, r]:
-                answer += 1
-                break
+        now_sum = m[l] + m[r]
+        if now_sum == m[idx]:
+            if l != idx and r != idx:
+
+                ans += 1
+                return
             else:
-                if r == now_idx:
+                if r == idx:
                     r -= 1
                 else:
                     l += 1
-        elif my_list[l] + my_list[r] < my_list[now_idx]:
-            l += 1
-            last = 1
-        else:
+        elif now_sum > m[idx]:
             r -= 1
-            last = -1
+        elif now_sum < m[idx]:
+            l += 1
 
-print(answer)
+
+m = sorted(m)
+ans = 0
+for idx in range(len(m)):
+    l, r = 0, len(m) - 1
+    two_pointer(l, r, m, idx)
+print(ans)
+
