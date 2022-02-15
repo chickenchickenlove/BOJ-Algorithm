@@ -9,3 +9,6 @@
 - 12892. 생일선물 Solved (https://www.acmicpc.net/problem/12892)
 
 
+#22.02.14
+- 22945. 팀빌딩 Solved (https://www.acmicpc.net/problem/22945)
+- 1253. 좋다 Solved (https://www.acmicpc.net/problem/22945)
