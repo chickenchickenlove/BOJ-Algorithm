@@ -11,4 +11,4 @@
 
 #22.02.14
 - 22945. 팀빌딩 Solved (https://www.acmicpc.net/problem/22945)
-- 1253. 좋다 Solved (https://www.acmicpc.net/problem/22945)
+- 1253. 좋다 Solved (https://www.acmicpc.net/problem/22945) 
