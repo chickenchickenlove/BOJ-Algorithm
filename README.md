@@ -6,6 +6,10 @@
 - 14502.연구소 Solved (https://www.acmicpc.net/problem/14502
 
 #22.02.14
+- 1484. 다이어트 Solved (https://www.acmicpc.net/problem/1484)
+
+
+#22.02.14
 - 12892. 생일선물 Solved (https://www.acmicpc.net/problem/12892)
 
 
