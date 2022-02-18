@@ -12,3 +12,6 @@
 #22.02.14
 - 22945. 팀빌딩 Solved (https://www.acmicpc.net/problem/22945)
 - 1253. 좋다 Solved (https://www.acmicpc.net/problem/22945) 
+
+#22.02.19
+- 1484. 다이어트 Solved (https://www.acmicpc.net/problem/1484)
