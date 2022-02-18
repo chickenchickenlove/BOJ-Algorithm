@@ -5,6 +5,12 @@
 - 1697.숨바꼭질 Solved (https://www.acmicpc.net/problem/1697)
 - 14502.연구소 Solved (https://www.acmicpc.net/problem/14502
 
+
+# 22.02.14
+- 1484.다이어트 Solved (https://www.acmicpc.net/problem/1484)
+- 14502.연구소 Solved (https://www.acmicpc.net/problem/14502
+
+
 # 22.02.14
 - 1484. 다이어트 Solved (https://www.acmicpc.net/problem/1484)
 
