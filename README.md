@@ -14,3 +14,4 @@
 
 # 22.02.19
 - 1484.다이어트 Solved (https://www.acmicpc.net/problem/1484)
+- 2638.치즈 Solved (https://www.acmicpc.net/problem/2638)
