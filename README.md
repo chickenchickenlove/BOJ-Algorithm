@@ -24,3 +24,4 @@
 - 17071.숨바꼭질5(G1) Solved (https://www.acmicpc.net/problem/17071)
 - 22862.가장 긴 짝수 연속한 부분 수열(S1) Solved (https://www.acmicpc.net/problem/22862)
 - 20922.겹치는 건 싫어(S1) Solved (https://www.acmicpc.net/problem/20922)
+- 16920.확장게임(G2) Solved (https://www.acmicpc.net/problem/16920)
