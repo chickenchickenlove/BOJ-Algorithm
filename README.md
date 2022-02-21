@@ -19,6 +19,8 @@
 - 13549.숨바꼭질3(G5) Solved (https://www.acmicpc.net/problem/13549)
 - 13913.숨바꼭질5(G5) Solved (https://www.acmicpc.net/problem/13913)
 
-# 22.02.20
+# 22.02.21
 - 12851.숨바꼭질2(G5) Solved (https://www.acmicpc.net/problem/12851)
 - 17071.숨바꼭질5(G1) Solved (https://www.acmicpc.net/problem/17071)
+- 22862.가장 긴 짝수 연속한 부분 수열(S1) Solved (https://www.acmicpc.net/problem/22862)
+- 20922.겹치는 건 싫어(S1) Solved (https://www.acmicpc.net/problem/20922)
