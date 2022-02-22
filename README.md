@@ -28,3 +28,4 @@
 
 # 22.02.22
 - 11967.불켜기(G3) Solved (https://www.acmicpc.net/problem/11967)
+- 9466.텀프로젝트(G3) Solved (https://www.acmicpc.net/problem/9466)
