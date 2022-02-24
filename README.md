@@ -35,4 +35,4 @@
 
 # 22.02.246
 - 6593.상범빌딩(G5) Solved (https://www.acmicpc.net/problem/6593)
-- 
+- 1600.말이 되고 싶은 원숭이(G4) Solved (https://www.acmicpc.net/problem/1600)
