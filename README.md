@@ -32,3 +32,7 @@
 
 # 22.02.23
 - 3197.백조의 호수(P5) Solved (https://www.acmicpc.net/problem/3197)
+
+# 22.02.246
+- 6593.상범빌딩(G5) Solved (https://www.acmicpc.net/problem/6593)
+- 
