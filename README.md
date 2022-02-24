@@ -33,6 +33,7 @@
 # 22.02.23
 - 3197.백조의 호수(P5) Solved (https://www.acmicpc.net/problem/3197)
 
-# 22.02.246
+# 22.02.24
 - 6593.상범빌딩(G5) Solved (https://www.acmicpc.net/problem/6593)
 - 1600.말이 되고 싶은 원숭이(G4) Solved (https://www.acmicpc.net/problem/1600)
+- 1473.미로탈출(P5) Solved (https://www.acmicpc.net/problem/1473)
