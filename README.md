@@ -41,3 +41,9 @@
 # 22.02.25
 - 14868.문명(P4) Solved (https://www.acmicpc.net/problem/14868)
 - 2424.부산의 해적 <span style="color:yellow">(P3)</span> (https://www.acmicpc.net/problem/2424)
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chickenchickenlove)](https://solved.ac/chickenchickenlove)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chickenchickenlove})](https://solved.ac/{chickenchickenlove})
