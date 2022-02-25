@@ -1,23 +1,9 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chickenchickenlove})](https://solved.ac/{chickenchickenlove})
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={chickenchickenlove})](https://solved.ac/{chickenchickenlove})
-
-
-
-# BOJ-Algorithm
+# BOJ-Algorithm <img src="https://img.shields.io/badge/Python-black?style=plastic&logo=Python&logoColor=#3776AB"/>
 백준 알고리즘 코딩테스트 풀이
 
-
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chickenchickenlove})](https://solved.ac/{chickenchickenlove})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chickenchickenlove)](https://solved.ac/chickenchickenlove)
 
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={chickenchickenlove})](https://solved.ac/{chickenchickenlove})
-d
 
 # 22.01.22
 - 1697.숨바꼭질(S1) Solved (https://www.acmicpc.net/problem/1697)
@@ -55,16 +41,7 @@ d
 - 6593.상범빌딩(G5) Solved (https://www.acmicpc.net/problem/6593)
 - 1600.말이 되고 싶은 원숭이(G4) Solved (https://www.acmicpc.net/problem/1600)
 - 1473.미로탈출(P5) Solved (https://www.acmicpc.net/problem/1473)
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
 # 22.02.25
 - 14868.문명(P4) Solved (https://www.acmicpc.net/problem/14868)
 - 2424.부산의 해적 <span style="color:yellow">(P3)</span> (https://www.acmicpc.net/problem/2424)
-
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chickenchickenlove})](https://solved.ac/{chickenchickenlove})
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=chickenchickenlove)](https://solved.ac/chickenchickenlove)
