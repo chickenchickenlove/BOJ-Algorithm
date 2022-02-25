@@ -6,6 +6,10 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chickenchickenlove})](https://solved.ac/{chickenchickenlove})
 
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={chickenchickenlove})](https://solved.ac/{chickenchickenlove})
+d
+
 # 22.01.22
 - 1697.숨바꼭질(S1) Solved (https://www.acmicpc.net/problem/1697)
 - 14502.연구소(G5) Solved (https://www.acmicpc.net/problem/14502
