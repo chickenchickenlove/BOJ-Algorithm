@@ -37,3 +37,6 @@
 - 6593.상범빌딩(G5) Solved (https://www.acmicpc.net/problem/6593)
 - 1600.말이 되고 싶은 원숭이(G4) Solved (https://www.acmicpc.net/problem/1600)
 - 1473.미로탈출(P5) Solved (https://www.acmicpc.net/problem/1473)
+
+# 22.02.25
+- 14868.문명(P4) Solved (https://www.acmicpc.net/problem/14868)
