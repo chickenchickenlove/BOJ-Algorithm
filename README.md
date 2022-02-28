@@ -51,3 +51,4 @@
 
 # 22.02.28
 - 1348.주차장(P2) Solved (https://www.acmicpc.net/problem/1348)
+- 2188.축사배정(P4) Solved (https://www.acmicpc.net/problem/2188)
