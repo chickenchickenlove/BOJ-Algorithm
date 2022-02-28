@@ -52,4 +52,5 @@
 # 22.02.28
 - 1348.주차장(P2) Solved (https://www.acmicpc.net/problem/1348)
 - 2188.축사배정(P4) Solved (https://www.acmicpc.net/problem/2188)
-- 11375.(P4) Solved (https://www.acmicpc.net/problem/11375)
+- 11375.열혈강호(P4) Solved (https://www.acmicpc.net/problem/11375)
+- 11376.열혈강호2(P4) Solved (https://www.acmicpc.net/problem/11376)
