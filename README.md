@@ -49,3 +49,5 @@
 # 22.02.26
 - 16930.달리기(P3) Solved (https://www.acmicpc.net/problem/16930)
 
+# 22.02.28
+- 1348.주차장(P2) Solved (https://www.acmicpc.net/problem/1348)
