@@ -54,3 +54,6 @@
 - 2188.축사배정(P4) Solved (https://www.acmicpc.net/problem/2188)
 - 11375.열혈강호(P4) Solved (https://www.acmicpc.net/problem/11375)
 - 11376.열혈강호2(P4) Solved (https://www.acmicpc.net/problem/11376)
+
+# 22.03.02
+- 1520.내리막 길(G5) Solved (https://www.acmicpc.net/problem/1520)
