@@ -63,3 +63,4 @@
 
 # 22.03.05
 - 2367.파티 (P4) Solved (https://www.acmicpc.net/problem/2367)
+- 11406.책 구매하기2 (P4) Solved (https://www.acmicpc.net/problem/11406)
