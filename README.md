@@ -60,3 +60,6 @@
 
 # 22.03.03
 - 6086.최대유량(P4) Solved (https://www.acmicpc.net/problem/6086)
+
+# 22.03.05
+- 2367.파티 (P4) Solved (https://www.acmicpc.net/problem/2367)
