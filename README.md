@@ -64,3 +64,13 @@
 # 22.03.05
 - 2367.파티 (P4) Solved (https://www.acmicpc.net/problem/2367)
 - 11406.책 구매하기2 (P4) Solved (https://www.acmicpc.net/problem/11406)
+
+
+# 22.03.07
+- 2011.암호코드 (G5) Solved (https://www.acmicpc.net/problem/11406)
+- 16194.카드 구매하기2 (S1) Solved (https://www.acmicpc.net/problem/11406)
+- 1463.1로 만들기 (S3) Solved (https://www.acmicpc.net/problem/11406)
+- 9095.1,2,3 더하기 (S3) Solved (https://www.acmicpc.net/problem/11406)
+- 12852.1로 만들기 2 (S1) Solved (https://www.acmicpc.net/problem/11406)
+- 1912.연속합 (S2) Solved (https://www.acmicpc.net/problem/11406)
+
