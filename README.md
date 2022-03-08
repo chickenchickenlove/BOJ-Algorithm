@@ -74,3 +74,7 @@
 - 12852.1로 만들기 2 (S1) Solved (https://www.acmicpc.net/problem/11406)
 - 1912.연속합 (S2) Solved (https://www.acmicpc.net/problem/11406)
 
+# 22.03.08
+- 11055.가장 큰 증가 부분 수열 (S2) Solved (https://www.acmicpc.net/problem/11055)
+- 11053.가장 긴 증가하는 부분 수열 (S2) Solved (https://www.acmicpc.net/problem/11053)
+- 14002.가장 긴 증가하는 부분 수열 4 (G4) Solved (https://www.acmicpc.net/problem/14002)
