@@ -78,3 +78,8 @@
 - 11055.가장 큰 증가 부분 수열 (S2) Solved (https://www.acmicpc.net/problem/11055)
 - 11053.가장 긴 증가하는 부분 수열 (S2) Solved (https://www.acmicpc.net/problem/11053)
 - 14002.가장 긴 증가하는 부분 수열 4 (G4) Solved (https://www.acmicpc.net/problem/14002)
+
+
+# 22.03.20
+- 1253. 좋다(G4) Solved (https://www.acmicpc.net/problem/1253)
+- 15644. 구슬탈출(G1) Solved (https://www.acmicpc.net/problem/15644)
