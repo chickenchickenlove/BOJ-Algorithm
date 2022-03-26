@@ -87,3 +87,6 @@
 # 22.03.26
 - 17412. 도시 왕복하기(P4) Solved (https://www.acmicpc.net/problem/17412)
 - 
+- 9095.1,2,3 더하기 (S3) Solved (https://www.acmicpc.net/problem/11406)
+- 12852.1로 만들기 2 (S1) Solved (https://www.acmicpc.net/problem/11406)
+- 1912.연속합 (S2) Solved (https://www.acmicpc.net/problem/11406)
