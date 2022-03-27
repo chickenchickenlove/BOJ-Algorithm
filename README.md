@@ -87,3 +87,6 @@
 # 22.03.26
 - 17412. 도시 왕복하기(P4) Solved (https://www.acmicpc.net/problem/17412)
 
+# 22.03.27
+- 16920. 확장 게임(G2) Solved (https://www.acmicpc.net/problem/16920)
+
