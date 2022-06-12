@@ -43,50 +43,51 @@
 - 1473.미로탈출(P5) Solved (https://www.acmicpc.net/problem/1473)
 
 # 22.02.25
-- 14868.문명(P4) Solved (https://www.acmicpc.net/problem/14868)
-- 2424.부산의 해적 <span style="color:yellow">(P3)</span> (https://www.acmicpc.net/problem/2424)
+- 14868 문명(P4) Solved (https://www.acmicpc.net/problem/14868)
+- 2424 부산의 해적 <span style="color:yellow">(P3)</span> (https://www.acmicpc.net/problem/2424)
 
 # 22.02.26
-- 16930.달리기(P3) Solved (https://www.acmicpc.net/problem/16930)
+- 16930 달리기(P3) Solved (https://www.acmicpc.net/problem/16930)
 
 # 22.02.28
-- 1348.주차장(P2) Solved (https://www.acmicpc.net/problem/1348)
-- 2188.축사배정(P4) Solved (https://www.acmicpc.net/problem/2188)
-- 11375.열혈강호(P4) Solved (https://www.acmicpc.net/problem/11375)
-- 11376.열혈강호2(P4) Solved (https://www.acmicpc.net/problem/11376)
+- 1348 주차장(P2) Solved (https://www.acmicpc.net/problem/1348)
+- 2188 축사배정(P4) Solved (https://www.acmicpc.net/problem/2188)
+- 11375 열혈강호(P4) Solved (https://www.acmicpc.net/problem/11375)
+- 11376 열혈강호2(P4) Solved (https://www.acmicpc.net/problem/11376)
 
 # 22.03.02
-- 1520.내리막 길(G5) Solved (https://www.acmicpc.net/problem/1520)
+- 1520 내리막 길(G5) Solved (https://www.acmicpc.net/problem/1520)
 
 # 22.03.03
-- 6086.최대유량(P4) Solved (https://www.acmicpc.net/problem/6086)
+- 6086 최대유량(P4) Solved (https://www.acmicpc.net/problem/6086)
 
 # 22.03.05
-- 2367.파티 (P4) Solved (https://www.acmicpc.net/problem/2367)
-- 11406.책 구매하기2 (P4) Solved (https://www.acmicpc.net/problem/11406)
+- 2367 파티 (P4) Solved (https://www.acmicpc.net/problem/2367)
+- 11406 책 구매하기2 (P4) Solved (https://www.acmicpc.net/problem/11406)
 
 # 22.03.07
-- 2011.암호코드 (G5) Solved (https://www.acmicpc.net/problem/11406)
-- 16194.카드 구매하기2 (S1) Solved (https://www.acmicpc.net/problem/11406)
-- 1463.1로 만들기 (S3) Solved (https://www.acmicpc.net/problem/11406)
-- 9095.1,2,3 더하기 (S3) Solved (https://www.acmicpc.net/problem/11406)
-- 12852.1로 만들기 2 (S1) Solved (https://www.acmicpc.net/problem/11406)
-- 1912.연속합 (S2) Solved (https://www.acmicpc.net/problem/11406)
+- 2011 암호코드 (G5) Solved (https://www.acmicpc.net/problem/11406)
+- 16194 카드 구매하기2 (S1) Solved (https://www.acmicpc.net/problem/11406)
+- 1463 1로 만들기 (S3) Solved (https://www.acmicpc.net/problem/11406)
+- 9095 1,2,3 더하기 (S3) Solved (https://www.acmicpc.net/problem/11406)
+- 12852 1로 만들기 2 (S1) Solved (https://www.acmicpc.net/problem/11406)
+- 1912 연속합 (S2) Solved (https://www.acmicpc.net/problem/11406)
 
 # 22.03.08
-- 11055.가장 큰 증가 부분 수열 (S2) Solved (https://www.acmicpc.net/problem/11055)
-- 11053.가장 긴 증가하는 부분 수열 (S2) Solved (https://www.acmicpc.net/problem/11053)
-- 14002.가장 긴 증가하는 부분 수열 4 (G4) Solved (https://www.acmicpc.net/problem/14002)
+- 11055 가장 큰 증가 부분 수열 (S2) Solved (https://www.acmicpc.net/problem/11055)
+- 11053 가장 긴 증가하는 부분 수열 (S2) Solved (https://www.acmicpc.net/problem/11053)
+- 14002 가장 긴 증가하는 부분 수열 4 (G4) Solved (https://www.acmicpc.net/problem/14002)
+
 
 # 22.03.20
--  1253. 좋다(G4) Solved (https://www.acmicpc.net/problem/1253)
--  15644. 구슬탈출(G1) Solved (https://www.acmicpc.net/problem/15644)
+-  1253 좋다(G4) Solved (https://www.acmicpc.net/problem/1253)
+-  15644 구슬탈출(G1) Solved (https://www.acmicpc.net/problem/15644)
 
 # 22.03.26
-- 17412. 도시 왕복하기(P4) Solved (https://www.acmicpc.net/problem/17412)
+- 17412 도시 왕복하기(P4) Solved (https://www.acmicpc.net/problem/17412)
 
 # 22.03.27
-- 16920. 확장 게임(G2) Solved (https://www.acmicpc.net/problem/16920)
+- 16920 확장 게임(G2) Solved (https://www.acmicpc.net/problem/16920)
 
 # 22.04.04
 - 파이썬 PRO 특강 알고리즘 문제풀이 (#1~#7)
@@ -95,19 +96,24 @@
 - 파이썬 PRO 특강 알고리즘 문제풀이(워드, 공간할당) 
 
 # 22.04.30
-- 11376. 열혈 강호2(P4)
-- 11405. 책 구매하기(P4)
+- 11376 열혈 강호2(P4)
+- 11405 책 구매하기(P4)
 
 # 22.05.06
-- 1559. 놀라운 미로(P5)
+- 1559 놀라운 미로(P5)
 
 # 22.05.07
-- 2188. 축사배정(P4)
+- 2188 축사배정(P4)
 
 # 22.05.22
-- 16194. 카드 구매하기2(S1)
-- 16920. 확장 게임(G2)
+- 16194 카드 구매하기2(S1)
+- 16920 확장 게임(G2)
 
 ## 22.05.28
-- 13549. 숨바꼭질3 (G5)
-- 11375. 열혈강호 (P4)
+- 13549 숨바꼭질3 (G5)
+- 11375 열혈강호 (P4)
+
+
+## 22.06.12
++ 1003 피보나치 함수 (S3)
++ 1005 ACM CRAFT (G3)
