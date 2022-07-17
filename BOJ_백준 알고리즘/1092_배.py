@@ -1,4 +1,5 @@
 import sys
+import heapq
 n = int(sys.stdin.readline().rstrip())
 crain = list(map(int,sys.stdin.readline().split()))
 crain = sorted(crain, reverse= True)
