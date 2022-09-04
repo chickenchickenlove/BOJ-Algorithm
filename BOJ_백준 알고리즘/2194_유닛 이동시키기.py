@@ -3,6 +3,8 @@ from builtins import map
 from collections import deque
 
 
+#tra_list = ((1,0,0),(0,1,1),(-1,0,2),(0,-1,3))
+
 def find_answer(next_r, next_c, dd, my_map):
     global a,b,n,m
     nn_r, nn_c = next_r + a - 1, next_c + b-1
