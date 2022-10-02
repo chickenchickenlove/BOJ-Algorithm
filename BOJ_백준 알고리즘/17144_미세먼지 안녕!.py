@@ -153,3 +153,8 @@ for i in range(n) :
             ans += my_list[i][j]
 print(ans)
 
+from importlib import import_module
+fun = import_module("my_script").__dict__.get("myFunc")
+fun()
+
+
