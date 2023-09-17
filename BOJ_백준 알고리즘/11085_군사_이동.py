@@ -1,7 +1,6 @@
 import sys
 from collections import deque
 
-
 def bfs(my_list,c,vv,limit,p,w) :
     que = deque()
 
